@@ -1,0 +1,8 @@
+Package: com.ioscreatix.control-center.testmodule
+Name: TestModule
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A Control Center Module
+Author: iOS Creatix
+Section: Control Center (Modules)
+Maintainer: iOS Creatix
